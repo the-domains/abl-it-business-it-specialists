@@ -1,0 +1,28 @@
+name: ABL IT Business IT Specialists
+favicon: null
+layout_spectrum: 0.6429444870445877
+typography_spectrum: 0.47935949987731874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9449826416093856
+  lightness: 0.06369226286187768
+  saturation: 0.5940267227124423
+  rhythmicContrast: 0.28211930487304926
+purpose: []
