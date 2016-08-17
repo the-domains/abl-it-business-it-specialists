@@ -1,6 +1,6 @@
 name: ABL IT Business IT Specialists
 favicon: null
-layout_spectrum: 0.6429444870445877
+layout_spectrum: 1
 typography_spectrum: 0.47935949987731874
 title: ABL IT - Business IT Specialists
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#231f20'
+    - '#f16321'
+    - '#f9cab1'
+    - '#909090'
   brandStrength: 0.9449826416093856
   lightness: 0.06369226286187768
   saturation: 0.5940267227124423
